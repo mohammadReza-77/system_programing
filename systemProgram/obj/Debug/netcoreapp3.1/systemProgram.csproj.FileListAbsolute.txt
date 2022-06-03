@@ -1,0 +1,16 @@
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\bin\Debug\netcoreapp3.1\systemProgram.exe
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\bin\Debug\netcoreapp3.1\systemProgram.deps.json
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\bin\Debug\netcoreapp3.1\systemProgram.runtimeconfig.json
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\bin\Debug\netcoreapp3.1\systemProgram.runtimeconfig.dev.json
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\bin\Debug\netcoreapp3.1\systemProgram.dll
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\bin\Debug\netcoreapp3.1\systemProgram.pdb
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\obj\Debug\netcoreapp3.1\systemProgram.csproj.AssemblyReference.cache
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\obj\Debug\netcoreapp3.1\systemProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\obj\Debug\netcoreapp3.1\systemProgram.AssemblyInfoInputs.cache
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\obj\Debug\netcoreapp3.1\systemProgram.AssemblyInfo.cs
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\obj\Debug\netcoreapp3.1\systemProgram.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\obj\Debug\netcoreapp3.1\systemProgram.dll
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\obj\Debug\netcoreapp3.1\systemProgram.pdb
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\obj\Debug\netcoreapp3.1\systemProgram.genruntimeconfig.cache
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\obj\Debug\netcoreapp3.1\systemProgram.Form1.resources
+C:\Users\Mohammad_Reza\Desktop\project\syspro\systemProgram\systemProgram\obj\Debug\netcoreapp3.1\systemProgram.csproj.GenerateResource.cache
