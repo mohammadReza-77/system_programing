@@ -19,7 +19,7 @@ namespace systemProgram
         public Form1()
         {
             InitializeComponent();
-            int IDOK = 1;
+            int IDOK = 6;
             int IDNO = 7;
             int IDError = 0;
             uint MB_RIGHT = 0x00080000;
